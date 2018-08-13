@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="/Users/junas01/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.10.1.0/1a351630175ce886ffe200a03dd3a56ec5ee93df/kafka-clients-0.10.1.0.jar" sourcepath="/Users/junas01/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/0.10.1.0/ab7a7dc0769da135a6562403be8c9d322e038ddd/kafka-clients-0.10.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/junas01/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka_2.11/0.10.1.0/83bd38edad4dfb6bb8d054b0ab6e2f8993a2a70a/kafka_2.11-0.10.1.0.jar" sourcepath="/Users/junas01/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka_2.11/0.10.1.0/78bf99325c65677f9b6337dec38d7ac11bf18605/kafka_2.11-0.10.1.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/junas01/.gradle/caches/modules-2/files-2.1/com.101tec/zkclient/0.10/c54d4b5a5e89af75a80b6d5857400165ce5188d0/zkclient-0.10.jar" sourcepath="/Users/junas01/.gradle/caches/modules-2/files-2.1/com.101tec/zkclient/0.10/224f43882780f1dab64a7f3bb429e217e5fbc2eb/zkclient-0.10-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

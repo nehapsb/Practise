@@ -1,0 +1,32 @@
+!SESSION 2014-05-05 14:07:00.862 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  C:\Users\ashijune\workspace3\project\AlgorithmProblems\java_pid26108.hprof
+Command-line arguments:  -os win32 -ws win32 -arch x86 C:\Users\ashijune\workspace3\project\AlgorithmProblems\java_pid26108.hprof
+
+!ENTRY org.eclipse.mat.ui 1 0 2014-05-05 14:07:07.679
+!MESSAGE Wrote threads call stacks to C:\Users\ashijune\workspace3\project\AlgorithmProblems\java_pid26108.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2014-05-05 14:07:07.731
+!MESSAGE Heap C:\Users\ashijune\workspace3\project\AlgorithmProblems\java_pid26108.hprof contains 44,276 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2014-05-05 14:07:08.009
+!MESSAGE Removed 41,794 unreachable objects using 3,423,808 bytes
+!SESSION 2014-05-05 14:24:30.155 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  C:\Users\ashijune\workspace3\project\AlgorithmProblems\java_pid25596.hprof
+Command-line arguments:  -os win32 -ws win32 -arch x86 C:\Users\ashijune\workspace3\project\AlgorithmProblems\java_pid25596.hprof
+
+!ENTRY org.eclipse.mat.ui 1 0 2014-05-05 14:24:34.707
+!MESSAGE Wrote threads call stacks to C:\Users\ashijune\workspace3\project\AlgorithmProblems\java_pid25596.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2014-05-05 14:24:34.780
+!MESSAGE Heap C:\Users\ashijune\workspace3\project\AlgorithmProblems\java_pid25596.hprof contains 44,276 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2014-05-05 14:24:35.032
+!MESSAGE Removed 41,794 unreachable objects using 3,423,808 bytes
